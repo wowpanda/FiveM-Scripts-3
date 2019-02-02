@@ -32,6 +32,3 @@ start HG_AntiCheat
 **WARNING 2**
 :warning: **These resources may also be on the Internet**
 :warning: **New resources in development**
-
-DOWNLOAD v1.0.0: https://github.com/HackerGeo-sp1ne/FiveM-Scripts/tree/master/HG_AntiCheat
-DOWNLOAD V1.0.8: will come soon (AntiClone)
